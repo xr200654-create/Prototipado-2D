@@ -6,6 +6,7 @@ public class Scriptcool : MonoBehaviour
     void Start()
     {
         print ("miau");
+        print ("kiaa");
     }
 
     // Update is called once per frame
